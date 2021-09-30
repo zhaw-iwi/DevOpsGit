@@ -1,2 +1,2 @@
 # DevOpsGit
-Hello World FS2022 (test und main)
+Hello World FS2022
